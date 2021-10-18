@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nested-dropdown/static/css/main.a617e044.chunk.css",
+    "main.js": "/nested-dropdown/static/js/main.e42e3b6b.chunk.js",
+    "main.js.map": "/nested-dropdown/static/js/main.e42e3b6b.chunk.js.map",
+    "runtime-main.js": "/nested-dropdown/static/js/runtime-main.67c77bb7.js",
+    "runtime-main.js.map": "/nested-dropdown/static/js/runtime-main.67c77bb7.js.map",
+    "static/js/2.bfce43ed.chunk.js": "/nested-dropdown/static/js/2.bfce43ed.chunk.js",
+    "static/js/2.bfce43ed.chunk.js.map": "/nested-dropdown/static/js/2.bfce43ed.chunk.js.map",
+    "static/js/3.23cd6e8a.chunk.js": "/nested-dropdown/static/js/3.23cd6e8a.chunk.js",
+    "static/js/3.23cd6e8a.chunk.js.map": "/nested-dropdown/static/js/3.23cd6e8a.chunk.js.map",
+    "index.html": "/nested-dropdown/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/nested-dropdown/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bfce43ed.chunk.js.LICENSE.txt": "/nested-dropdown/static/js/2.bfce43ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67c77bb7.js",
+    "static/js/2.bfce43ed.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e42e3b6b.chunk.js"
+  ]
+}
