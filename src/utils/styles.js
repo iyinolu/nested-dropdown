@@ -19,6 +19,7 @@ export const Container = styled('div')`
     min-height: 100vh;
     padding: 50px 0px;
     flex-direction: column;    
+    min-width: 500px;
 `
 
 export const Title = styled('span')`
@@ -27,9 +28,13 @@ export const Title = styled('span')`
     border: 1px solid grey;
     padding: 2px 8px;
     border-radius: 5px;
+    vertical-align: "middle";
+    display: "flex";
+    text-align: "center";
+    cursor: pointer;
 `
 
-export const Node = styled('span')`
+export const NodeDiv = styled('span')`
     display: flex;
     flex-direction: column;
     position: relative;
@@ -54,10 +59,12 @@ export const InputField = styled('input')`
     padding: 10px;
     background-color: #2e2e2e;
     color: grey;
-    width: auto;
+    width: 200px;
 `
 
 export const Form = styled('form')`
     display: flex;
+    margin-top: 30px;
+    align-items: center;
     margin-top: 30px;
 `
